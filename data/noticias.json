@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-10-19",
- "noticias": [
-  {"categoria":"deportes","titulo":"Ejemplo de noticia deportiva","resumen":"Aquí escribirás el resumen de la noticia deportiva del día. Reemplaza este texto al actualizar.","imagen":"https://images.unsplash.com/photo-1517927033932-b3d18e61fb3a?w=800","fuente":"Ejemplo","url":"","fecha":"2026-10-19"},
-  {"categoria":"cine","titulo":"Ejemplo de noticia de cine","resumen":"Aquí escribirás el resumen de la noticia de cine del día. Reemplaza este texto al actualizar.","imagen":"https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=800","fuente":"Ejemplo","url":"","fecha":"2026-10-19"},
-  {"categoria":"finanzas","titulo":"Ejemplo de noticia de finanzas","resumen":"Aquí escribirás el resumen de la noticia financiera del día. Reemplaza este texto al actualizar.","imagen":"https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800","fuente":"Ejemplo","url":"","fecha":"2026-10-19"},
-  {"categoria":"politica","titulo":"Ejemplo de noticia política","resumen":"Aquí escribirás el resumen de la noticia política del día. Reemplaza este texto al actualizar.","imagen":"https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800","fuente":"Ejemplo","url":"","fecha":"2026-10-19"}
- ]
+ "categoria": "deportes",
+ "titulo": "Título de la noticia",
+ "resumen": "Resumen corto",
+ "imagen": "https://enlace-de-la-imagen.jpg",
+ "fuente": "Nombre del medio",
+ "url": "https://enlace-a-la-noticia",
+ "fecha": "2026-10-19"
 }
